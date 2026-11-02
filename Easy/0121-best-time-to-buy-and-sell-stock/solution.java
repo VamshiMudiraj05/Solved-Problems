@@ -12,5 +12,5 @@ class Solution {
     }
         int min=prices[0];
         int max=0;
-        for(int i=)
+        for(int i=1;)
 
