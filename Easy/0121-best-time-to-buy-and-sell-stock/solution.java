@@ -14,3 +14,5 @@
     return maxprofit;
 }
     }
+    
+            if(prices[i]<minprice){
