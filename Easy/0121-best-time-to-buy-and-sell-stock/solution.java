@@ -15,3 +15,4 @@ return maxprofit;
         int maxprofit=0;
             if(profit>maxprofit){
 }
+        int minprice=prices[0];
