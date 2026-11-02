@@ -13,4 +13,3 @@ return maxprofit;
             }
     }
 }
-        for(int i=1;i<prices.length;i++){
