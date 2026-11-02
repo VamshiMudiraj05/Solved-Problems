@@ -10,5 +10,5 @@ class Solution {
         reverse(nums,k,n-1);
 
 
-    private void 
+    private void reve
 }
