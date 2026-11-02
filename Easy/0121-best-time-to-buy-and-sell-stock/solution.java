@@ -9,7 +9,7 @@ class Solution {
                 minprice=prices[i];
             }
             else{
-                int profit=prices[i]-mi
+                int profit=prices[i]-minp
             }
     }
 }
