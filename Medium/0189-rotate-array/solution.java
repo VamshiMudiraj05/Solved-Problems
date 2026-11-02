@@ -10,5 +10,5 @@ class Solution {
         reverse(nums,k,n-1);
 
 
-    public void reverse(in)
+    public void reverse(int[])
 }
