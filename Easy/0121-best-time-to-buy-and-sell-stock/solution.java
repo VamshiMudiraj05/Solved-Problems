@@ -9,7 +9,7 @@
 
 return maxprofit;
                 maxprofit=profit;
-            }
+            
     }
         for(int i=1;i<prices.length;i++){
         int maxprofit=0;
