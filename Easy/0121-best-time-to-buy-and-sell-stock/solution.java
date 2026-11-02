@@ -14,5 +14,5 @@ class Solution {
     }
 
 
-            if(pr)
+            if(profit)
 }
