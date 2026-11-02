@@ -16,5 +16,4 @@ return maxprofit;
             if(profit>maxprofit){
         int minprice=prices[0];
     public int maxProfit(int[] prices) {
-class Solution {
 }
