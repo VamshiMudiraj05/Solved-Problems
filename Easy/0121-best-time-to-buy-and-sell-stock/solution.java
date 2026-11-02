@@ -3,5 +3,5 @@ class Solution {
         int minprice=prices[0];
     }
         int maxprofit=0;
-        
+
 }
