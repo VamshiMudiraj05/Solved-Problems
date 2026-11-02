@@ -3,5 +3,6 @@ class Solution {
         
     }
         int n=nums.length;
-        k=k%n
+        k=k%n;
+        
 }
