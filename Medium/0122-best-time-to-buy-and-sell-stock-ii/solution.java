@@ -6,7 +6,7 @@ class Solution {
         }
 
         
-                profit+=prices[i]
+                profit+=prices[i]-
             }
     }
 }
