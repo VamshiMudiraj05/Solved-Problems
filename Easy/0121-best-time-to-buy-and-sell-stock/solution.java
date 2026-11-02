@@ -12,8 +12,9 @@
     }
             if(profit>maxprofit){
             if(prices[i]<minprice){
-        for(int i=1;i<prices.length;i++){
-        int minprice=prices[0];
-        int maxprofit=0;
-    public int maxProfit(int[] prices) {
     return maxprofit;
+}
+    }
+    
+        for(int i=1;i<prices.length;i++){
+        int maxprofit=0;
