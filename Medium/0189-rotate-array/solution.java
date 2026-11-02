@@ -10,7 +10,7 @@ class Solution {
         reverse(nums,k,n-1);
 
     public void reverse(int[] nums,int start,int end){
-        wh
+        while()
     }
 
 }
