@@ -1,7 +1,7 @@
     
     
     
-    
+return max;
 
         }
             }
@@ -14,7 +14,7 @@
         for(int i=1;i<prices.length;i++){
             if(prices[i]<min){
     
-return max;
-    
     }
     
+    }
+
