@@ -4,5 +4,5 @@ class Solution {
     }
 
         int profit=0;
-        for(int i=1;)
+        for(int i=1;i<l)
 }
