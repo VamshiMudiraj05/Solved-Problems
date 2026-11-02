@@ -4,8 +4,6 @@ class Solution {
     
     
     
-    
-    
 
         int min=prices[0];
         int max=0;
@@ -16,4 +14,6 @@ class Solution {
             }else{
                 int profit=prices[i]-min;
             }
-                if(profit>max){}
+                if(profit>max){
+                    m
+                }
