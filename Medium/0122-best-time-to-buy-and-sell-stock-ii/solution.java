@@ -6,7 +6,7 @@ class Solution {
         }
 
         
-                profit+=p
+                profit+=prices
             }
     }
 }
