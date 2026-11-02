@@ -5,7 +5,7 @@ class Solution {
             if(prices[i]>prices[i-1]){
         }
 
-     return   
+     return    
                 profit+=prices[i]-prices[i-1];
             }
     }
