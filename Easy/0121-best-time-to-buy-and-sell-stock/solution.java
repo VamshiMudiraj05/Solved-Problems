@@ -15,5 +15,5 @@ class Solution {
             if(prices[i]<min){
         }
                 min=prices[i];
-            }el
+            }else{}
     }
