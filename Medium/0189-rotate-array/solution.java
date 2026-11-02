@@ -16,4 +16,4 @@ class Solution {
         }
 
             nums[start]=nums[end];
-            
+            nu
