@@ -4,4 +4,5 @@ class Solution {
     }
 
         int profit=0;
+        i
 }
