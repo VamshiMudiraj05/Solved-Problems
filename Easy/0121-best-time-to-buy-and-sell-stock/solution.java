@@ -14,6 +14,6 @@ class Solution {
         for(int i=1;i<prices.length;i++){
             if(prices[i]<min){
         }
-                min=p
+                min=prices[i]
             }
     }
