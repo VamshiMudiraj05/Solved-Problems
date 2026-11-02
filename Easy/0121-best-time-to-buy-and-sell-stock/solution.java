@@ -14,5 +14,5 @@ class Solution {
     }
 
 
-            if(profit>maxp)
+            if(profit>maxprofit)
 }
