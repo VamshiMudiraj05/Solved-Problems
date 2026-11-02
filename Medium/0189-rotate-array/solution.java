@@ -3,5 +3,5 @@ class Solution {
         
     }
         int n=nums.length;
-        
+        k=
 }
