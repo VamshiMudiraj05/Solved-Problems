@@ -4,5 +4,5 @@ class Solution {
     }
 
         int profit=0;
-        fo
+        for(i)
 }
