@@ -11,5 +11,5 @@ class Solution {
 
     }
         int min=prices[0];
-        int ma
+        int max=0
 
