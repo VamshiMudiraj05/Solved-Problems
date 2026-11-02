@@ -8,6 +8,8 @@ class Solution {
 
                 minprice=prices[i];
             }
+            else{
+                pr
+            }
     }
-            else{}
 }
