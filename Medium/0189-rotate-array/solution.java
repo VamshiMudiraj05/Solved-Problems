@@ -12,7 +12,7 @@ class Solution {
     public void reverse(int[] nums,int start,int end){
         while(start<end){
     }
-            int temp=nums[s]
+            int temp=nums[star]
         }
 
 }
