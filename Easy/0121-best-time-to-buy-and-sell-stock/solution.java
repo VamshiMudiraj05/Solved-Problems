@@ -11,8 +11,9 @@ class Solution {
             else{
                 int profit=prices[i]-minprice;
             }
+
+
+            if(profit>maxprofit){
+                m
+            }
     }
-
-
-            if(profit>maxprofit){}
-}
