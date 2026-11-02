@@ -7,7 +7,6 @@ class Solution {
     
     
     
-    }
 
         int min=prices[0];
         int max=0;
@@ -15,5 +14,6 @@ class Solution {
             if(prices[i]<min){
         }
                 min=prices[i];
-            }else{}
-    }
+            }else{
+                i
+            }
