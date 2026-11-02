@@ -11,5 +11,7 @@
     return maxprofit;
 }
     
-}
+
             else{
+            }
+                minprice=prices[i];
