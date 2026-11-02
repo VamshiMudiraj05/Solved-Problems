@@ -12,5 +12,6 @@ class Solution {
                 int profit=prices[i]-minprice;
             }
     }
-            
+
+        
 }
