@@ -6,7 +6,7 @@ class Solution {
             if(prices[i]<minprice){
         }
 
-                minprice=
+                minprice=p
             }
     }
 }
