@@ -5,7 +5,7 @@
             }
             else{
                 int profit=prices[i]-minprice;
-            }
+            
 
 return maxprofit;
                 maxprofit=profit;
