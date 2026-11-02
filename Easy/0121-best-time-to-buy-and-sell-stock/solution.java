@@ -14,5 +14,5 @@ class Solution {
     }
 
 
-            if(profit)
+            if(profit>m)
 }
