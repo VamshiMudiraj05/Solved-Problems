@@ -1,16 +1,4 @@
-        }
-
-                int profit=prices[i]-minprice;
-            
+class Solution {
+    public int maxProfit(int[] prices) {
 
 
-                maxprofit=profit;
-            
-    }
-            if(profit>maxprofit){
-            else{
-    return maxprofit;
-}
-    
-
-            }
