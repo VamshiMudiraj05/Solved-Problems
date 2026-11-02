@@ -16,4 +16,4 @@ class Solution {
         }
 
             nums[start]=nums[end];
-            nums[end]=t
+            nums[end]=temp;
