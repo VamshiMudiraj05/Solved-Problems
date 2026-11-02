@@ -15,5 +15,5 @@ class Solution {
             int temp=nums[start];
         }
 
-            nums[start]=n
+            nums[start]=nums[]
 }
