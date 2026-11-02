@@ -12,7 +12,6 @@
     
     }
         return max;
-
         int max=0;
         for(int i=1;i<prices.length;i++){
 class Solution {
