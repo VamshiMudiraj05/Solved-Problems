@@ -12,7 +12,8 @@ class Solution {
         int min=prices[0];
         int max=0;
         for(int i=1;i<prices.length;i++){
-            if(prices[i]<min){}
+            if(prices[i]<min){
         }
+                mi
+            }
     }
-
