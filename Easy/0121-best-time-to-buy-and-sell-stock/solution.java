@@ -4,5 +4,5 @@ class Solution {
     }
         int maxprofit=0;
 
-        for(int )
+        for(int i=1)
 }
