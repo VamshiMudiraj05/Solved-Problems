@@ -8,7 +8,7 @@
                 int profit=prices[i]-minprice;
             }
 
-retur
+return max
             if(profit>maxprofit){
                 maxprofit=profit;
             }
