@@ -14,4 +14,3 @@ return maxprofit;
     }
 }
         for(int i=1;i<prices.length;i++){
-        int maxprofit=0;
