@@ -14,5 +14,5 @@
         for(int i=1;i<prices.length;i++){
         int maxprofit=0;
             if(profit>maxprofit){
-    
+    return maxprofit;
 }
