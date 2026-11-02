@@ -4,7 +4,7 @@ class Solution {
         k=k%n;
 
         reverse(nums,0,n-1);
-        reverse(n)
+        reverse(nums,)
         
     }
 }
