@@ -7,5 +7,5 @@ class Solution {
         reverse(nums,0,k-1);
         
     }
-        reverse
+        reverse(n)
 }
