@@ -10,5 +10,5 @@ class Solution {
     }
 
     }
-        int min=p
+        int min=prices
 
