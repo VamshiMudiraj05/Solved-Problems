@@ -15,5 +15,5 @@ class Solution {
         }
                 min=prices[i];
             }else{
-                i
+                int p
             }
