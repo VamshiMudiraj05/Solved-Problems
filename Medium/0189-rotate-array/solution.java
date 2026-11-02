@@ -5,5 +5,5 @@ class Solution {
         int n=nums.length;
         k=k%n;
 
-        reverse(nums,)
+        reverse(nums,0,)
 }
