@@ -1,6 +1,5 @@
         }
 
-            else{
                 int profit=prices[i]-minprice;
             
 
@@ -9,10 +8,9 @@
             
     }
             if(profit>maxprofit){
-            }
-                minprice=prices[i];
     return maxprofit;
 }
     }
 }
 
+            else{
