@@ -16,4 +16,4 @@ class Solution {
             }else{
                 int profit=prices[i]-min;
             }
-                i
+                if(p)
