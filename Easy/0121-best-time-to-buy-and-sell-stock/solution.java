@@ -15,5 +15,5 @@ class Solution {
                 int profit=prices[i]-min;
             }
                 if(profit>max){
-                    m
+                    max=p
                 }
