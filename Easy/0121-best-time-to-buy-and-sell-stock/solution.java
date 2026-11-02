@@ -1,5 +1,3 @@
-class Solution {
-    public int maxProfit(int[] prices) {
     
     
     
@@ -17,3 +15,6 @@ class Solution {
                 if(profit>max){
                     max=profit;
                 }
+    
+    
+    
